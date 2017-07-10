@@ -1,2 +1,2 @@
 	# Party Invites
-		This MVC 5 application is used for inviting the members for the party and sending acknowledgement through mail address.
+		This basic MVC 5 application is used for inviting the members for the party and sending acknowledgement through mail address.
